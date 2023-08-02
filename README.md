@@ -1,3 +1,4 @@
+Shooping App using React js and Typescript
 
 git clone then
 
